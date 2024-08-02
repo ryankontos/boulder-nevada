@@ -14,8 +14,8 @@ This project is a Express application written in TypeScript. It serves an HTML f
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/your-username/my-express-ts-app.git
-   cd my-express-ts-app
+   git clone [https://github.com/ryankontos/boulder-nevada.git](https://github.com/ryankontos/boulder-nevada.git)
+   cd boulder-nevada
    ```
 
 2. **Install Dependencies:**
